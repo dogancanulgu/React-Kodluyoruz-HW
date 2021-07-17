@@ -1,0 +1,23 @@
+{
+  "name": "first-react-hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dogancanulgu/React-Kodluyoruz-HW.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dogancanulgu/React-Kodluyoruz-HW/issues"
+  },
+  "homepage": "https://github.com/dogancanulgu/React-Kodluyoruz-HW#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
